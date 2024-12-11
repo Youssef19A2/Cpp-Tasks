@@ -5,6 +5,6 @@ int main() {
     std::cout<<"Enter The char: "<<std::endl;
     std::cin>>c;
     int ascii_value = int(c); 
-    std::cout << "The ASCII value of " << c << " is " << ascii_value << "\n";
+    std::cout << "The ASCII value of " << c << " is " << ascii_value <<std::endl;
     return 0;
 }
