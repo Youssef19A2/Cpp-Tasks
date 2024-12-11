@@ -1,4 +1,4 @@
-//Task_2 decide the letter is vowel or not
+//4-decide the letter is vowel or not
 #include <iostream>
 #include <stdio.h>
 char vowel[] = {'a','o','u','i','e','A','E','U','I','O'};
